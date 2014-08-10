@@ -1,0 +1,2886 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mainlist>
+	<appname>General English 5</appname>
+	<mainlistitem id="1">
+		<title>Unit 1: It's across from the library.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0501A.jpg</image>
+				<audio>NDE0501A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Simon Tompkins. Hello, Simon.
+
+Simon: Hi, Kathy.
+
+Kathy: Simon, last week you visited Princeton, New Jersey.
+
+Simon: Yes, I got back yesterday.
+
+Kathy: What's Princeton like? I've never been there.
+
+Simon: Princeton University has a very beautiful campus. There are lots of trees and some very old buildings. The oldest building is two hundred and fifty years old. It's located at the main entrance to the campus, on Nassau Street.
+
+Kathy: What's the name of the building?
+
+Simon: Nassau Hall. The office of the university president is in Nassau Hall.</viewscript>
+				<comprehension>
+					<title>Lesson 1-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What university did Simon visit last week?</question>
+						<option>Princeton</option>
+						<option>Harvard</option>
+						<option>Yale</option>
+						<answer>Princeton</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How old is the oldest building on campus?</question>
+						<option>250 years old</option>
+						<option>200 years old</option>
+						<option>50 years</option>
+						<answer>250 years old</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is in Nassau Hall?</question>
+						<option>the office of the university president</option>
+						<option>the Student Center</option>
+						<option>the art museum</option>
+						<answer>the office of the university president</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Princeton University has a _____ beautiful campus.</question>
+						<option>very</option>
+						<option>so</option>
+						<option>too</option>
+						<answer>very</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>The _____ building is two hundred and fifty years old.</question>
+						<option>oldest</option>
+						<option>most old</option>
+						<option>more older</option>
+						<answer>oldest</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Nassau Hall is _____ at the main entrance to the campus.</question>
+						<option>located</option>
+						<option>locate</option>
+						<option>location</option>
+						<answer>located</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0501B.jpg</image>
+				<audio>NDE0501B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Simon Tompkins. What were you doing in Princeton?
+
+Simon: I gave a lecture on "The Art of Photography."
+
+Kathy: Was your lecture at the art museum?
+
+Simon: No, it wasn't. It was in the library.
+
+Kathy: Is the library near the art museum?
+
+Simon: It's not very far. The art museum is in the center of campus, behind Nassau Hall. The library is in the northeast corner of campus. It's at the intersection of Nassau Street and Washington Road.
+
+Kathy: What did you do after the lecture?
+
+Simon: I went to the Student Center for coffee with some students. The Student Center is next to the library. It's between the library and Nassau Hall.</viewscript>
+				<comprehension>
+					<title>Lesson 1-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0501B_Q1.mp3|Where did Simon give his lecture?</question>
+						<option>in the library</option>
+						<option>at the art museum</option>
+						<option>in Nassau Hall</option>
+						<answer>in the library</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0501B_Q2.mp3|Which building is in the center of campus, behind Nassau Hall?</question>
+						<option>the art museum</option>
+						<option>the library</option>
+						<option>the Student Center</option>
+						<answer>the art museum</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0501B_Q3.mp3|What did Simon do after the lecture?</question>
+						<option>He went to the Student Center.</option>
+						<option>He went to the library.</option>
+						<option>He went to Nassau Hall.</option>
+						<answer>He went to the Student Center.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>The library</option>
+						<option>in the</option>
+						<option>of campus.</option>
+						<option>is</option>
+						<option>northeast</option>
+						<option>corner</option>
+						<answer>The library is in the northeast corner of campus.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>the library.</option>
+						<option>The Student</option>
+						<option>is</option>
+						<option>Center</option>
+						<option>next</option>
+						<option>to</option>
+						<answer>The Student Center is next to the library.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>the library</option>
+						<option>art museum?</option>
+						<option>Is</option>
+						<option>near</option>
+						<option>the</option>
+						<answer>Is the library near the art museum?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0501C.jpg</image>
+				<audio>NDE0501C.mp3</audio>
+				<viewscript>Kathy: What's the town of Princeton like?
+			
+Simon: Oh, it's a small town. The main street is Nassau Street. There are a lot of small stores on Nassau Street, across from the campus. And some very nice restaurants and coffee houses.
+
+Kathy: Is there a movie theater in Princeton?
+
+Simon: Yes, there's a movie theater on Nassau Street, directly across from the library.</viewscript>
+				<comprehension>
+					<title>Lesson 1-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What size town is Princeton?</question>
+						<option>small</option>
+						<option>medium</option>
+						<option>large</option>
+						<answer>small</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Are there any restaurants in Princeton?</question>
+						<option>Yes, there are.</option>
+						<option>No, there aren't.</option>
+						<option>Yes, there are several, but they're not very nice.</option>
+						<answer>Yes, there are.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where is the movie theater?</question>
+						<option>across from the library</option>
+						<option>next to the library</option>
+						<option>behind the library</option>
+						<answer>across from the library</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_____ the town of Princeton like?</question>
+						<option>What's</option>
+						<option>How</option>
+						<option>Where</option>
+						<answer>What's</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>________ a movie theater in Princeton?</question>
+						<option>Is there</option>
+						<option>There</option>
+						<option>Where</option>
+						<answer>Is there</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>_______ a movie theater directly across from the library.</question>
+						<option>There's</option>
+						<option>Here's</option>
+						<option>It's</option>
+						<answer>There's</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="2">
+		<title>Unit 2: What kinds of jobs do they have?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0502A.jpg</image>
+				<audio>NDE0502A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandra Harris. Sandra, I'd like to ask you a few questions about your children, Collette and John.
+
+Sandra: Sure, go ahead.
+
+Kathy: Do Collette and John work in the summer, when they're not in school?
+
+Sandra:	Yes, they both have part-time jobs.
+
+Kathy: What kind of jobs do they have?  Where do they work?
+
+Sandra:	Well, for example, last summer, John worked at a movie theater.
+
+Kathy: What did he do?
+
+Sandra:	He sold tickets, and sometimes he sold popcorn and soda.
+
+Kathy: What did Collette do?  What did she do last summer?
+
+Sandra:	She worked in a restaurant. She was a waitress.
+
+Kathy: What kind of restaurant was it?
+
+Sandra:	It was a French restaurant.</viewscript>
+				<comprehension>
+					<title>Lesson 2-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What kind of jobs do Collette and John have in the summer?</question>
+						<option>part-time jobs</option>
+						<option>full-time jobs</option>
+						<option>They don't have jobs in the summer.</option>
+						<answer>part-time jobs</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What did John do last summer?</question>
+						<option>He worked in a movie theater.</option>
+						<option>He worked in a restaurant.</option>
+						<option>She sold popcorn and soda.</option>
+						<answer>He worked in a movie theater.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What did Collette do last summer?</question>
+						<option>She was a waitress.</option>
+						<option>She was an actor.</option>
+						<option>She went to France.</option>
+						<answer>She was a waitress.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Do Collette and John ____ in the summer?</question>
+						<option>work</option>
+						<option>worked</option>
+						<option>working</option>
+						<answer>work</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What kinds of jobs __________?</question>
+						<option>do they have</option>
+						<option>they do have</option>
+						<option>they have</option>
+						<answer>do they have</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>What ___ Collette do last summer?</question>
+						<option>did</option>
+						<option>does</option>
+						<option>was</option>
+						<answer>did</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0502B.jpg</image>
+				<audio>NDE0502B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandra Harris. We're talking about summer jobs. Are John and Collette going to have jobs this summer?
+
+Sandra:	I think so. Collette's going to work in a department store. She's going to sell children's clothing.
+
+Kathy: Where is the store?
+
+Sandra:	It's in downtown Miami, near the Convention Center.
+
+Kathy: What about John? What's he going to do?
+
+Sandra:	In July, he's going to work at a park near our house. He's going to teach sports to children.
+
+Kathy: And August? What's he going to do in August?
+
+Sandra: In August, he's going to work in a fast food restaurant near our house. He's going to make hamburgers and French fries.</viewscript>
+				<comprehension>
+					<title>Lesson 2-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0502B_Q1.mp3|What's Collette going to do this summer?</question>
+						<option>She's going to work in a department store.</option>
+						<option>She's going to teach sports.</option>
+						<option>She's going to work at a park.</option>
+						<answer>She's going to work in a department store.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0502B_Q2.mp3|When is John going to teach sports?</question>
+						<option>in July</option>
+						<option>in August</option>
+						<option>all summer long</option>
+						<answer>in July</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0502B_Q3.mp3|What's John going to do in August?</question>
+						<option>He's going to work in a fast food restaurant.</option>
+						<option>He's going to teach sports to children.</option>
+						<option>He's going to go back to school.</option>
+						<answer>He's going to work in a fast food restaurant.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>John and Collette</option>
+						<option>Are</option>
+						<option>going to</option>
+						<option>this summer?</option>
+						<option>have</option>
+						<option>jobs</option>
+						<answer>Are John and Collette going to have jobs this summer?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>to children.</option>
+						<option>going</option>
+						<option>He's</option>
+						<option>teach</option>
+						<option>to</option>
+						<option>sports</option>
+						<answer>He's going to teach sports to children.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>to do</option>
+						<option>What's</option>
+						<option>going</option>
+						<option>John</option>
+						<option>in</option>
+						<option>August?</option>
+						<answer>What's John going to do in August?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0502C.jpg</image>
+				<audio>NDE0502C.mp3</audio>
+				<viewscript>Kathy: Sandra, did you have a summer job when you were in high school? 
+
+Sandra:	Yes, I usually did. One summer I worked in the public library. And another summer, I worked in a drug store. I was a sales clerk. I sold toothpaste, shampoo, and so on. I didn't like that job.</viewscript>
+				<comprehension>
+					<title>Lesson 2-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Did Sandra work during the summer when she was in high school?</question>
+						<option>Yes, she usually did.</option>
+						<option>Sometimes she did.</option>
+						<option>No, she never did.</option>
+						<answer>Yes, she usually did.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where did Sandra work as a sales clerk?</question>
+						<option>in a drug store</option>
+						<option>in a department store</option>
+						<option>in a shoe store</option>
+						<answer>in a drug store</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How did she feel about her summer job?</question>
+						<option>She didn't like it.</option>
+						<option>She liked it most of the time.</option>
+						<option>She enjoyed it.</option>
+						<answer>She didn't like it.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Did you have a summer job when you _____ in high school?</question>
+						<option>were</option>
+						<option>was</option>
+						<option>are</option>
+						<answer>were</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>One summer I _____ in the public library.</question>
+						<option>worked</option>
+						<option>did work</option>
+						<option>have worked</option>
+						<answer>worked</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I sold toothpaste, shampoo, _____.</question>
+						<option>and so on</option>
+						<option>and so</option>
+						<option>so on</option>
+						<answer>and so on</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="3">
+		<title>Unit 3: There are pictures on the walls.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0503A.jpg</image>
+				<audio>NDE0503A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sara Scott. Sara is a doctor at a large hospital in Chicago Hello, Sara. You work mostly with children, don't you?
+
+Sara: That's right. Most of my patients are children.
+
+Kathy: Is your hospital only for children?
+
+Sara: No, it isn't. It's a very large hospital. But the fourth floor of the hospital is only for children. The rooms look like children's rooms. There are funny pictures on the walls. And there are colorful curtains on the windows. Sometimes there are even pictures on the ceilings.
+
+Kathy: Why are there pictures on the ceilings?
+
+Sara: So that the children can look at the pictures when they are lying in their beds. We want our children to feel comfortable.</viewscript>
+				<comprehension>
+					<title>Lesson 3-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What kind of patient does Sara mostly work with?</question>
+						<option>children</option>
+						<option>adults</option>
+						<option>both adults and children</option>
+						<answer>children</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which floor of the hospital is for children?</question>
+						<option>the 4th floor</option>
+						<option>the 40th floor</option>
+						<option>four of the floors</option>
+						<answer>the 4th floor</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>In the children's rooms, where are the funny pictures?</question>
+						<option>on the walls and ceilings</option>
+						<option>on the walls</option>
+						<option>on the ceilings</option>
+						<answer>on the walls and ceilings</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_____ are colorful curtains on the windows.</question>
+						<option>There</option>
+						<option>These</option>
+						<option>They're</option>
+						<answer>There</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Why ___ there pictures on the ceilings?</question>
+						<option>are</option>
+						<option>is</option>
+						<option>it</option>
+						<answer>are</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>We want ___ children to feel comfortable.</question>
+						<option>our</option>
+						<option>them</option>
+						<option>they</option>
+						<answer>our</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0503B.jpg</image>
+				<audio>NDE0503B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sara Scott. She's talking about the children's floor at her hospital. Sara, can parents visit their children in the hospital?
+
+Sara: Of course, they can. Parents can visit their children any time, day or night. There are extra beds in the children's rooms so that their parents can sleep there. And there is a kitchen so that parents can cook food for their children.</viewscript>
+				<comprehension>
+					<title>Lesson 3-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0503B_Q1.mp3|When can the children's parents visit?</question>
+						<option>any time, day or night</option>
+						<option>during the day</option>
+						<option>only at night</option>
+						<answer>any time, day or night</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0503B_Q2.mp3|Where can the parents sleep?</question>
+						<option>in the children's rooms</option>
+						<option>on a different floor of the hospital</option>
+						<option>Parents can't spend night in the hospital.</option>
+						<answer>in the children's rooms</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0503B_Q3.mp3|Why is there a kitchen on the children's floor of the hospital?</question>
+						<option>So that parents can cook food for their children.</option>
+						<option>So that parents can cook food for themselves.</option>
+						<option>So that the hospital can have a restaurant.</option>
+						<answer>So that parents can cook food for their children.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>their children</option>
+						<option>the hospital?</option>
+						<option>Can</option>
+						<option>parents</option>
+						<option>in</option>
+						<option>visit</option>
+						<answer>Can parents visit their children in the hospital?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>There are</option>
+						<option>in the</option>
+						<option>extra</option>
+						<option>beds</option>
+						<option>children's</option>
+						<option>rooms.</option>
+						<answer>There are extra beds in the children's rooms.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>There is</option>
+						<option>a kitchen</option>
+						<option>can cook</option>
+						<option>so that</option>
+						<option>food.</option>
+						<option>parents</option>
+						<answer>There is a kitchen so that parents can cook food.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0503C.jpg</image>
+				<audio>NDE0503C.mp3</audio>
+				<viewscript>Kathy: Is there a school at the hospital?
+
+Sara: No, there isn't a school. But there is a teacher so that the children get some help with their school work.
+
+Kathy: Is there a place for the children to play?
+
+Sara: Yes, there is a playroom for the children so that they can play games together. Children need to play, and exercise helps the children get better.</viewscript>
+				<comprehension>
+					<title>Lesson 3-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Is there a school at the hospital?</question>
+						<option>No, there isn't, but there is a teacher.</option>
+						<option>Yes, there is. There is a school for sick children.</option>
+						<option>No, there isn't. There aren't any teachers at the hospital.</option>
+						<answer>No, there isn't, but there is a teacher.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where can the children play?</question>
+						<option>There is a playroom for the children.</option>
+						<option>The children can play outside.</option>
+						<option>There is a gym in the basement of the hospital.</option>
+						<answer>There is a playroom for the children.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What helps the children get better?</question>
+						<option>exercise</option>
+						<option>staying in bed</option>
+						<option>being alone</option>
+						<answer>exercise</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>There is a teacher _______ the children get help with their school work.</question>
+						<option>so that</option>
+						<option>that</option>
+						<option>for</option>
+						<answer>so that</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Is there a place for the children _______?</question>
+						<option>to play</option>
+						<option>play</option>
+						<option>playing</option>
+						<answer>to play</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>There __ a playroom for the children.</question>
+						<option>is</option>
+						<option>has</option>
+						<option>does</option>
+						<answer>is</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0503_bonus.jpg</image>
+				<audio>NDE0503_BONUS.mp3</audio>
+				<viewscript>Kent: This is Kent Moss, New Dynamic English Man on the Street. Today, I'm standing in front of the Washington Monument.
+
+Carl: Excuse me.
+
+Kent: Yes?
+
+Carl: I need directions.
+
+Kent: Certainly. Where do you need to go?
+
+Carl: To the National Gallery of Art.
+
+Kent: The National Gallery... let me see. It's right next to the Natural History Museum.
+
+Carl: The Natural History Museum?
+
+Kent: Yes. That's where they have the dinosaur bones.
+
+Carl: I'm afraid I don't know where that is.
+
+Kent: Okay... well, it's across the street from the Air and Space Museum. You know, where they have the Wright Brothers' airplane.
+
+Carl: I don't know where that is, either.
+
+Kent: Is this your first visit to Washington, D.C.?
+
+Carl: Actually.. I live here!
+
+Kent: OK. Come with me. I'll show you where it is.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does the man want to go?</question>
+						<option>to the art museum</option>
+						<option>to the Natural History Museum</option>
+						<option>to the Air and Space Museum</option>
+						<answer>to the art museum</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is next to the National Gallery of Art?</question>
+						<option>the Natural History Museum</option>
+						<option>the Air and Space Museum</option>
+						<option>the Washington Monument</option>
+						<answer>the Natural History Museum</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where does the man live?</question>
+						<option>in Washington, D.C.</option>
+						<option>He doesn't say.</option>
+						<option>He doesn't live in the United States.</option>
+						<answer>in Washington, D.C.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>It's right ____ to the Natural History Museum.</question>
+						<option>next</option>
+						<option>across</option>
+						<option>side</option>
+						<answer>next</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>It's across the street ____ the Air and Space Museum.</question>
+						<option>from</option>
+						<option>to</option>
+						<option>of</option>
+						<answer>from</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Is this ____ first visit to Washington, D.C.?</question>
+						<option>your</option>
+						<option>you are</option>
+						<option>you're</option>
+						<answer>your</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="4">
+		<title>Unit 4: We're going to rent a motorhome.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0504A.jpg</image>
+				<audio>NDE0504A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Bob Harris. Next summer, you're going to Alaska with your family.
+
+Bob: That's right. We're going to take the ferry from Seattle to Anchorage, Alaska. And then we're going to drive around Alaska for a week.
+
+Kathy: Are you going to rent a car?
+
+Bob: No, we're going to rent a motorhome.
+
+Kathy: A motorhome?
+
+Bob: Yes. Some people call them RV's --recreational vehicles.
+
+Kathy: Why are you going to rent a motorhome? Isn't it expensive?
+
+Bob: Not really. When you travel by car, you have to stay in motels. Motels are expensive. When you travel in a motorhome, you don't have to pay for motels. You can sleep in the motorhome. And the motorhome has a kitchen, so we can cook our own meals. We can save a lot of money, because we don't have to eat at restaurants.
+
+Kathy: Sounds like a great idea for a vacation, Bob.</viewscript>
+				<comprehension>
+					<title>Lesson 4-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How are Bob and his family going to travel around Alaska?</question>
+						<option>They're going to rent a motorhome.</option>
+						<option>They're going to rent a car.</option>
+						<option>They're going to drive to Alaska.</option>
+						<answer>They're going to rent a motorhome.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where will Bob and his family sleep?</question>
+						<option>They are going to sleep in the motorhome.</option>
+						<option>They are going to stay in motels.</option>
+						<option>They are going to go camping.</option>
+						<answer>They are going to sleep in the motorhome.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How will Bob and his family save money on food?</question>
+						<option>They are going to cook their own meals.</option>
+						<option>They are going to eat in inexpensive restaurants.</option>
+						<option>They are going to bring their own food.</option>
+						<answer>They are going to cook their own meals.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Why are you going ______ a motorhome?</question>
+						<option>to rent</option>
+						<option>rent</option>
+						<option>renting</option>
+						<answer>to rent</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>When you travel by car, you ______ stay in motels.</question>
+						<option>have to</option>
+						<option>must to</option>
+						<option>going to</option>
+						<answer>have to</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>We can save a lot of money, ______ we don't have to eat at restaurants.</question>
+						<option>because</option>
+						<option>unless</option>
+						<option>so that</option>
+						<answer>because</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0504B.jpg</image>
+				<audio>NDE0504B.mp3</audio>
+				<viewscript>Kathy: How big is a motorhome, Bob?
+
+Bob: We're going to get one that is twenty-two feet long. It has a kitchen, a bathroom, a dining area, and four beds.
+
+Kathy: Really! All those rooms in a motorhome?
+
+Bob: Yes! The door is on the side of the motorhome, near the back. When you come in, the kitchen is in front of you. There's a sink... and a stove....
+
+Kathy: Where's the refrigerator?
+
+Bob: The refrigerator is next to the door, on your right.
+
+Kathy: And the bathroom?
+
+Bob: The bathroom is on your left.
+
+Kathy: When you say "bathroom," do you mean the toilet?
+
+Bob: Well, there's a toilet and a sink, but there's also a shower. There isn't a bathtub, so you can't take a bath, but you can take a shower.</viewscript>
+				<comprehension>
+					<title>Lesson 4-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0504B_Q1.mp3|Where is the door to the motorhome?</question>
+						<option>on the side, near the back</option>
+						<option>in the front</option>
+						<option>There are two doors, one on each side.</option>
+						<answer>on the side, near the back</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0504B_Q2.mp3|What is in front of you when you enter the motorhome?</question>
+						<option>the kitchen</option>
+						<option>the dining area</option>
+						<option>the bathroom</option>
+						<answer>the kitchen</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0504B_Q3.mp3|What doesn't the motorhome have?</question>
+						<option>a bathtub</option>
+						<option>a shower</option>
+						<option>a toilet</option>
+						<answer>a bathtub</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>on the side</option>
+						<option>The door</option>
+						<option>of the</option>
+						<option>motorhome,</option>
+						<option>is</option>
+						<option>near the back.</option>
+						<answer>The door is on the side of the motorhome, near the back.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>on your right.</option>
+						<option>The refrigerator</option>
+						<option>next to</option>
+						<option>the door,</option>
+						<option>is</option>
+						<answer>The refrigerator is next to the door, on your right.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>so you</option>
+						<option>take a bath.</option>
+						<option>a bathtub,</option>
+						<option>There</option>
+						<option>isn't</option>
+						<option>can't</option>
+						<answer>There isn't a bathtub, so you can't take a bath.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0504C.jpg</image>
+				<audio>NDE0504C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Bob Harris. He's telling us about the motorhome that he's going to rent next summer. You said there are four beds. Where are they?
+
+Bob: They're near the front of the motorhome. There's one big bed. Two people can sleep there. And there's a sofa bed and one more small bed.
+
+Kathy: It sounds like a fun way to travel.</viewscript>
+				<comprehension>
+					<title>Lesson 4-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How many beds does the motorhome have?</question>
+						<option>four</option>
+						<option>three</option>
+						<option>five</option>
+						<answer>four</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Are the beds in the front of the motorhome or in the back?</question>
+						<option>in the front</option>
+						<option>in the back</option>
+						<option>Two are in the front, and two are in the back.</option>
+						<answer>in the front</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How many people can sleep in the big bed?</question>
+						<option>two</option>
+						<option>three</option>
+						<option>up to four people</option>
+						<answer>two</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>The ____ are near the front of the motorhome.</question>
+						<option>beds</option>
+						<option>bed</option>
+						<option>bedroom</option>
+						<answer>beds</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Two people can _____ in the big bed.</question>
+						<option>sleep</option>
+						<option>sleeps</option>
+						<option>sleeping</option>
+						<answer>sleep</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>It _____ like a fun way to travel.</question>
+						<option>sounds</option>
+						<option>makes</option>
+						<option>takes</option>
+						<answer>sounds</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="5">
+		<title>Unit 5: The sun is a circle.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0505A.jpg</image>
+				<audio>NDE0505A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Jenny Chen. How are you today?
+
+Jenny: Fine.
+
+Kathy: Jenny, tell us a little about your son.
+
+Jenny: Jason.... Well, he likes to draw pictures. It's something we like to do together. First I draw a circle, a square, or some other shape. And then Jason draws a picture with that shape.
+
+Kathy: Can you give us an example?
+
+Jenny: Sure. Last night I drew a circle on a piece of paper. And I asked Jason, "What is it?"
+
+Kathy: What did he say?
+
+Jenny: He said, "It's the sun."
+
+Kathy: Yes, the sun is a circle.
+
+Jenny: And then he drew a tree and some flowers. And he made a picture of a sunny day.</viewscript>
+				<comprehension>
+					<title>Lesson 5-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Jenny's son like to do?</question>
+						<option>draw pictures</option>
+						<option>take photographs</option>
+						<option>sing songs</option>
+						<answer>draw pictures</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What shape did Jenny draw for her son last night?</question>
+						<option>a circle</option>
+						<option>a square</option>
+						<option>a triangle</option>
+						<answer>a circle</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What did Jason think the shape looked like?</question>
+						<option>the sun</option>
+						<option>a tree</option>
+						<option>a flower</option>
+						<answer>the sun</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>First I draw a circle, a square, or some other _____.</question>
+						<option>shape</option>
+						<option>rectangle</option>
+						<option>triangle</option>
+						<answer>shape</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Last night I ____ a circle on a piece of paper.</question>
+						<option>drew</option>
+						<option>draw</option>
+						<option>drawed</option>
+						<answer>drew</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Then Jason made a picture of a _____ day.</question>
+						<option>sunny</option>
+						<option>sun</option>
+						<option>sunshine</option>
+						<answer>sunny</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0505B.jpg</image>
+				<audio>NDE0505B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Jenny Chen. We're talking about the pictures that her son Jason drew. Can Jason draw other pictures with circles?
+
+Jenny: Well, for example, this morning he drew a picture of a mouse.
+
+Kathy: A mouse?
+
+Jenny: Yes. He drew a big circle for the head. Then he drew two circles next to each other -- inside the big circle.
+
+Kathy: Those were the eyes?
+
+Jenny: That's right. Those were the eyes. Then he drew a small circle for the nose, under the eyes. Then he drew a mouth below the nose.
+
+Kathy: And what about the ears?
+
+Jenny: He drew a circle on each side of the head. Those were the ears.
+
+Kathy: You can make a lot of pictures with circles, can't you?
+
+Jenny: Yes. A circle can be a clock, or a balloon, or a basketball.
+
+Kathy: Or a cookie. Mmm, I'm getting hungry.</viewscript>
+				<comprehension>
+					<title>Lesson 5-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0505B_Q1.mp3|What did Jason draw?</question>
+						<option>a mouse</option>
+						<option>a cookie</option>
+						<option>a clock</option>
+						<answer>a mouse</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0505B_Q2.mp3|Jason drew a circle on each side of the head. What were they?</question>
+						<option>ears</option>
+						<option>eyes</option>
+						<option>a nose and a mouth</option>
+						<answer>ears</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0505B_Q3.mp3|What else can you draw with a circle?</question>
+						<option>a cookie</option>
+						<option>a door</option>
+						<option>a house</option>
+						<answer>a cookie</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>that her son</option>
+						<option>We're</option>
+						<option>talking about</option>
+						<option>Jason</option>
+						<option>drew.</option>
+						<option>the pictures</option>
+						<answer>We're talking about the pictures that her son Jason drew.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>a picture</option>
+						<option>he</option>
+						<option>drew</option>
+						<option>of a mouse.</option>
+						<option>This morning</option>
+						<answer>This morning he drew a picture of a mouse.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>a small circle</option>
+						<option>for the nose,</option>
+						<option>the eyes.</option>
+						<option>He</option>
+						<option>drew</option>
+						<option>under</option>
+						<answer>He drew a small circle for the nose, under the eyes.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0505C.jpg</image>
+				<audio>NDE0505C.mp3</audio>
+				<viewscript>Kathy: Our guest is Jenny Chen. She's talking about her son Jason. He likes to draw. What other things does Jason like to draw?
+
+Jenny: He likes to draw houses. First he draws a large square. That's the house. Then he draws a triangle on top of the house.
+
+Kathy: The roof.
+
+Jenny: Yes. Then he draws two squares for windows. And a rectangle for the door. Sometimes he draws a small circle... for the doorknob.
+
+Kathy: Can I see some of his pictures?
+
+Jenny: OK. I'll bring them with me next time I come to your show.</viewscript>
+				<comprehension>
+					<title>Lesson 5-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Jason like to draw?</question>
+						<option>houses</option>
+						<option>animals</option>
+						<option>people</option>
+						<answer>houses</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What shape does Jason use to draw the roof?</question>
+						<option>a triangle</option>
+						<option>a rectangle</option>
+						<option>a square</option>
+						<answer>a triangle</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What shape is good for drawing a book, a credit card, or a door?</question>
+						<option>a rectangle</option>
+						<option>a triangle</option>
+						<option>a square</option>
+						<answer>a rectangle</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What other things ____ Jason like to draw?</question>
+						<option>does</option>
+						<option>is</option>
+						<option>has</option>
+						<answer>does</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>First he draws a square. ____ he draws a triangle.</question>
+						<option>Then</option>
+						<option>After</option>
+						<option>Until</option>
+						<answer>Then</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Sometimes he _____ a small circle for the doorknob.</question>
+						<option>draws</option>
+						<option>draw</option>
+						<option>drawing</option>
+						<answer>draws</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="6">
+		<title>Unit 6: I ride my bike to work.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0506A.jpg</image>
+				<audio>NDE0506A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Mike Johnson. Hello, Mike.  Welcome to New Dynamic English.
+
+Mike: Hello, Kathy. Thanks for inviting me.
+
+Kathy: Can you tell us a little about yourself?
+
+Mike: Well, I'm twenty-three years old... and I live in San Francisco. I work for Stagecoach Bank in downtown San Francisco. I'm an accountant. I work in the loans department.
+
+Kathy: Do you live near your office?
+
+Mike: No, I live about five miles away, on the other side of San Francisco.
+
+Kathy: How do you get to work?  Do you drive?
+
+Mike: No, I don't. I don't have a car. I ride my bike to work.
+
+Kathy: Really?
+
+Mike: Yes, it's much cheaper than driving a car. And it's faster than taking the bus. It's great exercise, too. And it's much better for the environment!</viewscript>
+				<comprehension>
+					<title>Lesson 6-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Mike do?</question>
+						<option>He works in a bank.</option>
+						<option>He works in a department store.</option>
+						<option>He works at lunch counter.</option>
+						<answer>He works in a bank.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How does Mike get to work?</question>
+						<option>He rides his bike.</option>
+						<option>He drives his car.</option>
+						<option>He takes the bus.</option>
+						<answer>He rides his bike.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What does Mike think about taking a bus to work?</question>
+						<option>It's not as fast as riding his bike.</option>
+						<option>It's faster than riding his bike.</option>
+						<option>It's more expensive than driving his car.</option>
+						<answer>It's not as fast as riding his bike.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How do you ___ to work?</question>
+						<option>get</option>
+						<option>got</option>
+						<option>getting</option>
+						<answer>get</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Riding a bike is much _______ than driving a car.</question>
+						<option>cheaper</option>
+						<option>expensive</option>
+						<option>inexpensive</option>
+						<answer>cheaper</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>And it's ____ better for the environment.</question>
+						<option>much</option>
+						<option>more</option>
+						<option>very</option>
+						<answer>much</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0506B.jpg</image>
+				<audio>NDE0506B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Mike Johnson. Mike works for a bank in San Francisco. You said you ride your bike to work. Do you think more people should ride their bikes to work?
+
+Mike: Yes, I do. I think more people should ride bikes.
+
+Kathy: Why?
+
+Mike: For one thing, it would help the environment. Cars are the major cause of air pollution in San Francisco. If more people rode bikes, there would be fewer cars on the road. There would be less air pollution. And riding a bike is a great way to save money. It's very expensive to own and drive a car. And if you ride a bike, you don't have to pay for parking. And parking is very expensive in San Francisco.
+
+Kathy: If you can find a parking space!
+
+Mike: That's right!</viewscript>
+				<comprehension>
+					<title>Lesson 6-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0506B_Q1.mp3|What is the major cause of air pollution in San Francisco?</question>
+						<option>cars</option>
+						<option>factories</option>
+						<option>bikes</option>
+						<answer>cars</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0506B_Q2.mp3|What would happen if more people rode bikes?</question>
+						<option>There would be fewer cars on the road.</option>
+						<option>There would be more air pollution.</option>
+						<option>It would be harder to find a parking space.</option>
+						<answer>There would be fewer cars on the road.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0506B_Q3.mp3|What is one advantage of riding a bike in San Francisco?</question>
+						<option>You don't have to pay for parking.</option>
+						<option>It is more expensive than driving a car.</option>
+						<option>It's not as fast as taking the bus.</option>
+						<answer>You don't have to pay for parking.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>more people</option>
+						<option>their bikes</option>
+						<option>to work?</option>
+						<option>Do you think</option>
+						<option>ride</option>
+						<option>should</option>
+						<answer>Do you think more people should ride their bikes to work?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>rode bikes,</option>
+						<option>would be</option>
+						<option>If more people</option>
+						<option>fewer cars</option>
+						<option>on the road.</option>
+						<option>there</option>
+						<answer>If more people rode bikes, there would be fewer cars on the road.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>you don't</option>
+						<option>have to</option>
+						<option>If you ride</option>
+						<option>a bike,</option>
+						<option>for parking.</option>
+						<option>pay</option>
+						<answer>If you ride a bike, you don't have to pay for parking.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0506C.jpg</image>
+				<audio>NDE0506C.mp3</audio>
+				<viewscript>Kathy: Is it safe to ride your bike on the streets of San Francisco?
+				
+Mike: Well, that's a difficult question. There's a lot of traffic, and sometimes there are accidents.
+
+Kathy: Is the city government doing anything for bike riders... to make bike riding safer?
+
+Mike: Well, last year they made bike lanes along some of the major streets. But I think they should do more. They should stop all automobile traffic on some streets. Some streets should be for bicycles only. Then it would be much safer to ride bikes.</viewscript>
+				<comprehension>
+					<title>Lesson 6-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Is it safe to ride a bicycle on the streets of San Francisco?</question>
+						<option>Not always. Sometimes there are accidents.</option>
+						<option>Yes. It is very safe.</option>
+						<option>No. It's very dangerous.</option>
+						<answer>Not always. Sometimes there are accidents.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What did the San Francisco government do to make the streets safer for bike riders?</question>
+						<option>They added bike lanes along some of the major streets.</option>
+						<option>They stopped all automobile traffic on some streets.</option>
+						<option>They added bike lanes to all San Francisco streets.</option>
+						<answer>They added bike lanes along some of the major streets.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Mike feel about the actions of the city government?</question>
+						<option>He feels that they should do more.</option>
+						<option>He feels that they didn't do anything.</option>
+						<option>He feels that they did too much.</option>
+						<answer>He feels that they should do more.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I think that they should __ more to help bike riders.</question>
+						<option>do</option>
+						<option>doing</option>
+						<option>are doing</option>
+						<answer>do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>They should ____ all automobile traffic on some streets.</question>
+						<option>stop</option>
+						<option>to stop</option>
+						<option>stopping</option>
+						<answer>stop</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Some streets _________ for bicycles only.</question>
+						<option>should be</option>
+						<option>are should</option>
+						<option>should</option>
+						<answer>should be</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0506_bonus.jpg</image>
+				<audio>NDE0506_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. With me is Betty Li. Betty, may I ask why you're carrying that mirror?
+
+Betty: I'm going to put it in my living room.
+
+Kent: So your guests can look at their hair?
+
+Betty: No! I'm putting it in my living room to bring me money.
+
+Kent: How can a mirror bring you money?
+
+Betty: I read a book about Feng Shui.
+
+Kent: Feng Shui?
+
+Betty: Yes, Feng Shui is the Chinese art of putting things in the best places in your house.
+
+Kent: Hmmm! I see you're also carrying two red candles.
+
+Betty: I'm going to put them in my bedroom.
+
+Kent: To bring you money?
+
+Betty: No! To bring me love!
+
+Kent: Love! Feng Shui can bring love?
+
+Betty: Certainly! It can bring you happiness, health, money and love!
+
+Kent: Wow! Can I buy that mirror?
+
+Betty: I'm sorry. It's not for sale.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is Feng Shui?</question>
+						<option>the Chinese art of putting things in the best places</option>
+						<option>the Chinese art of preparing food</option>
+						<option>the Chinese art of building houses</option>
+						<answer>the Chinese art of putting things in the best places</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where will Betty put the mirror?</question>
+						<option>in her living room</option>
+						<option>in her bedroom</option>
+						<option>in her dining room</option>
+						<answer>in her living room</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What are the two red candles for?</question>
+						<option>to bring her love</option>
+						<option>to bring her money</option>
+						<option>to bring her health</option>
+						<answer>to bring her love</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I'm _______ it in my living room to bring me money.</question>
+						<option>putting</option>
+						<option>put</option>
+						<option>to put</option>
+						<answer>putting</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>How can a mirror _____ you money?</question>
+						<option>bring</option>
+						<option>to bring</option>
+						<option>bringing</option>
+						<answer>bring</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I'm going ______ the candles in my bedroom.</question>
+						<option>to put</option>
+						<option>put</option>
+						<option>putting</option>
+						<answer>to put</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="7">
+		<title>Unit 7: How long will you stay in Washington?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0507A.jpg</image>
+				<audio>NDE0507A.mp3</audio>
+				<viewscript>Kathy: Hi, Max.
+				
+Max: Hi, Kathy.
+
+Kathy: You look happy.
+
+Max: Yes, next week I'm going to Boston to attend my sister's wedding.
+
+Kathy: That sounds like fun. Are you going to fly to Boston?
+
+Max: Well, last week I tried to buy a ticket, but the flight was full.
+
+Kathy: Oh, that's too bad.
+
+Max: It's OK. Yesterday my travel agent called me. She told me that there was space on the flight.
+
+Kathy: Great.
+
+Max: Yes. I'm going to get the ticket tomorrow.
+
+Kathy: Well, today's guest is Henry Thornton, and he's going to talk about his travel plans.
+
+Max: Henry Thornton? He's the businessman from Seattle.
+
+Kathy: That's right.</viewscript>
+				<comprehension>
+					<title>Lesson 7-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How is Max going to get to Boston?</question>
+						<option>He's going to fly.</option>
+						<option>He's going to take the train.</option>
+						<option>He's going to drive.</option>
+						<answer>He's going to fly.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Why couldn't he get a ticket last week?</question>
+						<option>The flight was full.</option>
+						<option>The ticket was too expensive.</option>
+						<option>He didn't have a travel agent.</option>
+						<answer>The flight was full.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Why did his travel agent call him yesterday?</question>
+						<option>to tell him that there was space on the flight</option>
+						<option>to tell him that the flight was cancelled</option>
+						<option>to tell him that the flight was full</option>
+						<answer>to tell him that there was space on the flight</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Next week I'm _____ to Boston to attend my sister's wedding.</question>
+						<option>going</option>
+						<option>go</option>
+						<option>will go</option>
+						<answer>going</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Last week I _____ to buy a ticket, but the flight was full.</question>
+						<option>tried</option>
+						<option>try</option>
+						<option>was tried</option>
+						<answer>tried</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>She told me that _________ space on the flight.</question>
+						<option>there was</option>
+						<option>there</option>
+						<option>was</option>
+						<answer>there was</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0507B.jpg</image>
+				<audio>NDE0507B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Henry Thornton. Welcome back to our show, Mr. Thornton.
+
+Henry: It's nice to be here.
+
+Kathy: Are you here in Washington on business?
+
+Henry: I'm here to meet with my Congressman.
+
+Kathy: Your Congressman?
+
+Henry: Yes, I'm going to meet with him this afternoon.
+
+Kathy: What are you going to talk about?
+
+Henry: We're going to talk about my plans for a new factory.
+
+Kathy: How long will the meeting last?
+
+Henry: I think it'll probably last... for about an hour.
+
+Kathy: And what will you do after that?
+
+Henry: I'll go back to my hotel, and then I'll go out to dinner with my lawyer. We'll probably go to a very nice restaurant.</viewscript>
+				<comprehension>
+					<title>Lesson 7-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0507B_Q1.mp3|Why is Henry in Washington?</question>
+						<option>to meet with his Congressman</option>
+						<option>to build a new factory</option>
+						<option>to eat at a very nice restaurant</option>
+						<answer>to meet with his Congressman</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0507B_Q2.mp3|How long will the meeting last?</question>
+						<option>about an hour</option>
+						<option>this afternoon</option>
+						<option>to talk about a new factory</option>
+						<answer>about an hour</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0507B_Q3.mp3|What is Henry going to do this evening?</question>
+						<option>He'll have dinner with his lawyer.</option>
+						<option>He'll stay in his hotel room.</option>
+						<option>He'll go back home.</option>
+						<answer>He'll have dinner with his lawyer.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>with him</option>
+						<option>this afternoon.</option>
+						<option>meet</option>
+						<option>I'm</option>
+						<option>going</option>
+						<option>to</option>
+						<answer>I'm going to meet with him this afternoon.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>last?</option>
+						<option>meeting</option>
+						<option>the</option>
+						<option>will</option>
+						<option>long</option>
+						<option>How</option>
+						<answer>How long will the meeting last?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>go out</option>
+						<option>my lawyer.</option>
+						<option>I'll</option>
+						<option>to</option>
+						<option>dinner</option>
+						<option>with</option>
+						<answer>I'll go out to dinner with my lawyer.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0507C.jpg</image>
+				<audio>NDE0507C.mp3</audio>
+				<viewscript>Kathy: Mr. Thornton, how long do you plan to stay in Washington?
+
+Henry: I'll be here until tomorrow afternoon, and then I'm going to go to Chicago.
+
+Kathy: Chicago? When will you get to Chicago?
+
+Henry: Well, my flight leaves Washington at one o'clock tomorrow afternoon. I'll arrive in Chicago around three o'clock.
+
+Kathy: And when will you fly back to Seattle?
+
+Henry: I'll fly back to Seattle the day after tomorrow, in the afternoon.
+
+Kathy: So you'll only stay in Chicago for one day?
+
+Henry: Well, actually, I'll be there for two days and one night.</viewscript>
+				<comprehension>
+					<title>Lesson 7-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When will Henry leave for Chicago?</question>
+						<option>tomorrow afternoon</option>
+						<option>later this evening</option>
+						<option>in two days</option>
+						<answer>tomorrow afternoon</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>When will he fly back to Seattle?</question>
+						<option>the day after tomorrow</option>
+						<option>tomorrow</option>
+						<option>at the end of the week</option>
+						<answer>the day after tomorrow</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How long will he stay in Washington?</question>
+						<option>one night</option>
+						<option>two nights</option>
+						<option>He's not sure how long he'll stay.</option>
+						<answer>one night</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How long __ you plan to stay in Chicago?</question>
+						<option>do</option>
+						<option>are</option>
+						<option>does</option>
+						<answer>do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>My flight ______ Washington at 1:00 tomorrow afternoon.</question>
+						<option>leaves</option>
+						<option>leaving</option>
+						<option>going to leave</option>
+						<answer>leaves</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I'll fly back to Seattle the day _______________.</question>
+						<option>after tomorrow</option>
+						<option>tomorrow</option>
+						<option>before tomorrow</option>
+						<answer>after tomorrow</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="8">
+		<title>Unit 8: He's going to build a birdhouse.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0508A.jpg</image>
+				<audio>NDE0508A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Diane Owens. Welcome back, Diane.
+
+Diane: It's nice to see you again, Kathy.
+
+Kathy: Your husband Dick drives a taxi, doesn't he?
+
+Diane: That's right. He's a taxi driver.
+
+Kathy: Does he work every day? Seven days a week?
+
+Diane: Yes, he does. On weekdays, he works from ten in the morning until four in the afternoon. And on weekends, he works in the evening... from seven until one or two at night.
+
+Kathy: Does he like his job?
+
+Diane: Yes, he does. He meets lots of interesting people. And he enjoys driving!</viewscript>
+				<comprehension>
+					<title>Lesson 8-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Diane's husband do?</question>
+						<option>He drives a taxi.</option>
+						<option>He drives a bus.</option>
+						<option>He's a mechanic.</option>
+						<answer>He drives a taxi.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is his work schedule?</question>
+						<option>He works seven days a week.</option>
+						<option>He works Monday to Friday.</option>
+						<option>He works on the weekend.</option>
+						<answer>He works seven days a week.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When does he work in the evening?</question>
+						<option>on weekends</option>
+						<option>seven days a week</option>
+						<option>He works during the day.</option>
+						<answer>on weekends</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Your husband Dick drives a taxi, _______ he?</question>
+						<option>doesn't</option>
+						<option>isn't</option>
+						<option>is</option>
+						<answer>doesn't</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>On weekdays, he works from 10:00 in the morning ________ 4:00 in the afternoon.</question>
+						<option>until</option>
+						<option>from</option>
+						<option>after</option>
+						<answer>until</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>He meets lots of ___________ people.</question>
+						<option>interesting</option>
+						<option>interested</option>
+						<option>interest</option>
+						<answer>interesting</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0508B.jpg</image>
+				<audio>NDE0508B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Diane Owens. She's talking about her husband, Dick.
+
+Kathy: Does Dick have any hobbies?
+
+Diane: Well, he loves to build things. For example, this weekend he's going to build a birdhouse.
+
+Kathy: A birdhouse? Tell me about it.
+
+Diane: Well... First he'll make the walls, the floor, and the roof.
+
+Kathy: Will he use wood?
+
+Diane: Yes, he will. Wood is the best material for a birdhouse. After he makes the walls, he'll make a large hole in the front wall.
+
+Kathy: So that the birds can go in and out?
+
+Diane: That's right. He'll also make small holes in all the walls--for air.
+
+Kathy: I see.
+
+Diane: And he'll make holes in the floor so that water can go out.</viewscript>
+				<comprehension>
+					<title>Lesson 8-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0508B_Q1.mp3|What is Dick going to build?</question>
+						<option>a birdhouse</option>
+						<option>a doghouse</option>
+						<option>a playhouse</option>
+						<answer>a birdhouse</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0508B_Q2.mp3|What material will he use?</question>
+						<option>wood</option>
+						<option>metal</option>
+						<option>plastic</option>
+						<answer>wood</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0508B_Q3.mp3|Why will he make holes in the floor?</question>
+						<option>So that water can go out.</option>
+						<option>So that the birds can go in and out.</option>
+						<option>So that air can come in.</option>
+						<answer>So that water can go out.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>This weekend</option>
+						<option>a birdhouse.</option>
+						<option>he's</option>
+						<option>going</option>
+						<option>to</option>
+						<option>build</option>
+						<answer>This weekend he's going to build a birdhouse.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>the best</option>
+						<option>a birdhouse.</option>
+						<option>Wood</option>
+						<option>is</option>
+						<option>material</option>
+						<option>for</option>
+						<answer>Wood is the best material for a birdhouse.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>in the front wall.</option>
+						<option>After he</option>
+						<option>he'll</option>
+						<option>makes the walls,</option>
+						<option>make a large hole</option>
+						<answer>After he makes the walls, he'll make a large hole in the front wall.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0508C.jpg</image>
+				<audio>NDE0508C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Diane Owens. Will Dick paint the birdhouse?
+
+Diane: He'll paint the outside of the birdhouse. But he won't paint the inside.
+
+Kathy: He won't paint the inside?  Why not?
+
+Diane: Paint has chemicals that can hurt the birds. So he won't paint the inside where the birds will live.
+
+Kathy: What color will he paint the birdhouse?
+
+Diane: He'll paint it green.
+
+Kathy: Where will he put the birdhouse?
+
+Diane: He'll put it in a tree in our backyard. Birds like to build their nests in trees. So that's where we'll put our birdhouse.</viewscript>
+				<comprehension>
+					<title>Lesson 8-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What color will Dick paint the birdhouse?</question>
+						<option>green</option>
+						<option>grey</option>
+						<option>blue</option>
+						<answer>green</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Why won't he paint the inside of the birdhouse?</question>
+						<option>Because chemicals in the paint can hurt the birds.</option>
+						<option>Because no one can see inside the birdhouse.</option>
+						<option>Because paint is expensive.</option>
+						<answer>Because chemicals in the paint can hurt the birds.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where will he put the birdhouse?</question>
+						<option>in his backyard</option>
+						<option>in front of his house</option>
+						<option>on the roof of his house</option>
+						<answer>in his backyard</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Paint has chemicals ____ can hurt the birds.</question>
+						<option>that</option>
+						<option>what</option>
+						<option>who</option>
+						<answer>that</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What color ____ he paint the birdhouse?</question>
+						<option>will</option>
+						<option>does</option>
+						<option>is</option>
+						<answer>will</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Birds like ________ their nests in trees.</question>
+						<option>to build</option>
+						<option>build</option>
+						<option>built</option>
+						<answer>to build</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="9">
+		<title>Unit 9: We'll sell men's clothing</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0509A.jpg</image>
+				<audio>NDE0509A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. She manages a women's clothing store in San Jose, California. How's business, Maria?
+
+Maria: Good. Very good. In fact, next month we're going to open up a new store.
+
+Kathy: A new store? What kind of store will it be?
+
+Maria: It'll be a men's clothing store. We'll sell all kinds of men's clothing--shirts, ties, shoes, etc.
+
+Kathy: How many people will work in the new store?
+
+Maria: There will be five full-time employees, and some part-time workers.
+
+Kathy: Will the store be open in the evening?
+
+Maria: No, it won't. It'll close at six o'clock.</viewscript>
+				<comprehension>
+					<title>Lesson 9-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is Maria going to do next month?</question>
+						<option>She's going to open a men's clothing store.</option>
+						<option>She's going to open a new women's clothing store.</option>
+						<option>She's going to start a new job.</option>
+						<answer>She's going to open a men's clothing store.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How many people will work in the new store?</question>
+						<option>5 full-time employees, plus some part-time workers</option>
+						<option>5 part-time workers</option>
+						<option>5 full-time employees</option>
+						<answer>5 full-time employees, plus some part-time workers</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How late will the store be open?</question>
+						<option>until 6:00 p.m.</option>
+						<option>until 9:00 p.m.</option>
+						<option>It's only open in the morning.</option>
+						<answer>until 6:00 p.m.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Next month we're going _______ a new store.</question>
+						<option>to open</option>
+						<option>open</option>
+						<option>opening</option>
+						<answer>to open</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>How many people _________ in the new store?</question>
+						<option>will work</option>
+						<option>are work</option>
+						<option>working</option>
+						<answer>will work</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Will the store _______ in the evening?</question>
+						<option>be open</option>
+						<option>opening</option>
+						<option>is open</option>
+						<answer>be open</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0509B.jpg</image>
+				<audio>NDE0509B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. She's talking about a new men's clothing store that is going to open next month. Who will manage the new store?  Will you?
+
+Maria: No, I won't. I'm too busy. I can't manage two stores. We'll have to hire a manager.
+
+Kathy: What kind of person will you hire?
+
+Maria: We're looking for someone who knows a lot about men's clothing. And we want someone who is good with people.
+
+Kathy: That makes sense.</viewscript>
+				<comprehension>
+					<title>Lesson 9-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0509B_Q1.mp3|Who will manage the new store?</question>
+						<option>They will hire a new manager.</option>
+						<option>Maria will manage the store.</option>
+						<option>The store will be small and won't need a manager.</option>
+						<answer>They will hire a new manager.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0509B_Q2.mp3|Why won't Maria manage the new store herself?</question>
+						<option>She's too busy to manage two stores.</option>
+						<option>She doesn't know much about men's clothing.</option>
+						<option>She doesn't like the new store. </option>
+						<answer>She's too busy to manage two stores.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0509B_Q3.mp3|What kind of person will they hire?</question>
+						<option>Someone who is good with people.</option>
+						<option>Someone who knows a lot about women's clothing.</option>
+						<option>Someone who is managing a clothing store.</option>
+						<answer>Someone who is good with people.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>two</option>
+						<option>can't</option>
+						<option>stores.</option>
+						<option>I</option>
+						<option>manage</option>
+						<answer>I can't manage two stores.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>a manager.</option>
+						<option>to</option>
+						<option>hire</option>
+						<option>We'll</option>
+						<option>have</option>
+						<answer>We'll have to hire a manager.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>is good</option>
+						<option>with people.</option>
+						<option>We</option>
+						<option>someone</option>
+						<option>want</option>
+						<option>who</option>
+						<answer>We want someone who is good with people.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0509C.jpg</image>
+				<audio>NDE0509C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. She's talking about a new store that is going to open next month. Maria, do you think you'll open other stores in the future?
+
+Maria: We may open a children's clothing store, but I'm not sure. Or perhaps we'll open another women's clothing store.
+
+Kathy: Will you open stores in other states?
+
+Maria: I don't think so. We probably won't open any stores outside of California.</viewscript>
+				<comprehension>
+					<title>Lesson 9-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Is Maria going to open more stores in the future?</question>
+						<option>She's not sure.</option>
+						<option>Yes. She will definitely open more stores.</option>
+						<option>No. She won't open any more stores.</option>
+						<answer>She's not sure.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What are her plans for opening a children's clothing store?</question>
+						<option>She may open one.</option>
+						<option>She won't open one.</option>
+						<option>She will open one.</option>
+						<answer>She may open one.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where are Maria's stores?</question>
+						<option>in California</option>
+						<option>in several different states</option>
+						<option>in California and New Mexico</option>
+						<answer>in California</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Do you think ______ open other stores in the future?</question>
+						<option>you'll</option>
+						<option>are going to</option>
+						<option>will</option>
+						<answer>you'll</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>We ___ open a children's store, but I'm not sure.</question>
+						<option>may</option>
+						<option>will</option>
+						<option>going to</option>
+						<answer>may</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>We probably _____ open any stores out of California.</question>
+						<option>won't</option>
+						<option>not</option>
+						<option>will</option>
+						<answer>won't</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0509_bonus.jpg</image>
+				<audio>NDE0509_BONUS.mp3</audio>
+				<viewscript>Kent: Hello. This is Kent Moss from Washington, D.C. With me is Madame Roux. She's a fortune teller. Madame Roux, why are you holding my hand?
+
+Roux: I'm reading your future.
+
+Kent: And what can you see?
+
+Roux: I see that you will have a long life.
+
+Kent: That's good news!
+
+Roux: I also see that you will be successful and make a lot of money.
+
+Kent: Great!
+
+Roux: You will also marry a beautiful woman.
+
+Kent: Wait a minute! I'm already married!
+
+Roux: Does your wife have blond hair?
+
+Kent: No... she has black hair.
+
+Roux: Oh. Let me see your other hand.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is Madame Roux?</question>
+						<option>a fortune teller</option>
+						<option>a person with good fortune</option>
+						<option>a rich person</option>
+						<answer>a fortune teller</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which of these does Madame Roux not see in Kent's future?</question>
+						<option>a large family</option>
+						<option>a long, successful life</option>
+						<option>a beautiful woman</option>
+						<answer>a large family</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What color hair does Kent's wife have?</question>
+						<option>She has black hair.</option>
+						<option>She has blond hair.</option>
+						<option>She has red hair.</option>
+						<answer>She has black hair.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Why ___ you holding my hand?</question>
+						<option>are</option>
+						<option>do</option>
+						<option>am</option>
+						<answer>are</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I see that you will ____ a long life.</question>
+						<option>have</option>
+						<option>has</option>
+						<option>having</option>
+						<answer>have</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I'm already _______.</question>
+						<option>married</option>
+						<option>marry</option>
+						<option>did marry</option>
+						<answer>married</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="10">
+		<title>Unit 10: Farmers and Water Pollution</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0510A.jpg</image>
+				<audio>NDE0510A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Ellen Williams. Hello, Ellen.
+
+Ellen: Nice to see you again, Kathy.
+
+Kathy: You're going to talk to us today about water pollution.
+
+Ellen: Yes. Do you know the biggest cause of water pollution in the United States?
+
+Kathy: Is it... factories?
+
+Ellen: No, it isn't. It's farming.
+
+Kathy: Farming?
+
+Ellen: Yes. Farming is the biggest cause of water pollution in the United States.
+
+Kathy: How does farming cause water pollution?
+
+Ellen: Most farmers use pesticides to kill insects. If these pesticides get into our water, they can cause water pollution. Water pollution can cause health problems.
+
+Kathy: That's really true.</viewscript>
+				<comprehension>
+					<title>Lesson 10-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What's the biggest cause of water pollution in the United States?</question>
+						<option>farming</option>
+						<option>factories</option>
+						<option>automobiles</option>
+						<answer>farming</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Why do farmers use pesticides?</question>
+						<option>to kill insects</option>
+						<option>to make plants grow bigger</option>
+						<option>to keep animals away from crops</option>
+						<answer>to kill insects</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Why do you think farmers need to control insects?</question>
+						<option>Insects eat crops.</option>
+						<option>Insects cause water pollution.</option>
+						<option>Insects get into the water.</option>
+						<answer>Insects eat crops.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Farming is __________ cause of water pollution in the United States.</question>
+						<option>the biggest</option>
+						<option>big</option>
+						<option>bigger</option>
+						<answer>the biggest</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>How does farming _____ water pollution?</question>
+						<option>cause</option>
+						<option>causes</option>
+						<option>cause to</option>
+						<answer>cause</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>If pesticides get into our water, they can _____ water pollution.</question>
+						<option>cause</option>
+						<option>causes</option>
+						<option>to cause</option>
+						<answer>cause</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0510B.jpg</image>
+				<audio>NDE0510B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Ellen Williams. She's talking about farmers and water pollution. How can farmers stop water pollution?
+
+Ellen: First of all, they can use fewer pesticides.
+
+Kathy: But if farmers don't use pesticides, won't insects destroy their crops?
+
+Ellen: Maybe, but there are other ways to control insects. One way is to use natural products. These products will kill insects but they won't hurt people.</viewscript>
+				<comprehension>
+					<title>Lesson 10-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0510B_Q1.mp3|How does Ellen think farmers can stop water pollution?</question>
+						<option>They can use fewer pesticides.</option>
+						<option>They can kill more insects.</option>
+						<option>They can stop insects from destroying their crops.</option>
+						<answer>They can use fewer pesticides.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0510B_Q2.mp3|What may happen if farmers don't use pesticides?</question>
+						<option>Insects may destroy their crops.</option>
+						<option>Water pollution may increase.</option>
+						<option>Farmers won't be able to control insects.</option>
+						<answer>Insects may destroy their crops.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0510B_Q3.mp3|What is an advantage of using natural products to control insects?</question>
+						<option>Natural products can kill insects without hurting people.</option>
+						<option>Natural products do not harm insects.</option>
+						<option>Natural products are less expensive than pesticides.</option>
+						<answer>Natural products can kill insects without hurting people.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>that farmers</option>
+						<option>Ellen thinks</option>
+						<option>pesticides.</option>
+						<option>can</option>
+						<option>use</option>
+						<option>fewer</option>
+						<answer>Ellen thinks that farmers can use fewer pesticides.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>If farmers</option>
+						<option>don't use</option>
+						<option>pesticides,</option>
+						<option>won't insects</option>
+						<option>destroy</option>
+						<option>their crops?</option>
+						<answer>If farmers don't use pesticides, won't insects destroy their crops?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>Natural products</option>
+						<option>will kill</option>
+						<option>insects</option>
+						<option>but</option>
+						<option>they won't</option>
+						<option>hurt people.</option>
+						<answer>Natural products will kill insects but they won't hurt people.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0510C.jpg</image>
+				<audio>NDE0510C.mp3</audio>
+				<viewscript>Kathy: Now it's time for a phone call. Hello. You're on the air with New Dynamic English.
+
+Margo: My name is Margo. I'm from Sacramento, California. I don't buy food from farmers who use pesticides.
+
+Kathy: So you'll only eat organic food, food without pesticides?
+
+Margo: That's right. Organic food is better for my health and for my children's health. And organic fruits and vegetables taste much better than other fruits and vegetables.
+
+Kathy: Thank you, Margo, for your opinion.</viewscript>
+				<comprehension>
+					<title>Lesson 10-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is organic food?</question>
+						<option>food that is grown without pesticides</option>
+						<option>food that tastes good</option>
+						<option>fruits and vegetables</option>
+						<answer>food that is grown without pesticides</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What kind of food does Margo buy?</question>
+						<option>She only buys organic food.</option>
+						<option>She usually buys organic food.</option>
+						<option>She buys food from farmers who use pesticides.</option>
+						<answer>She only buys organic food.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which of these is not a reason why Margo buys organic food?</question>
+						<option>It is less expensive.</option>
+						<option>It tastes better.</option>
+						<option>It is better for her health.</option>
+						<answer>It is less expensive.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I don't ___ food from farmers who use pesticides.</question>
+						<option>buy</option>
+						<option>to buy</option>
+						<option>buying</option>
+						<answer>buy</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Organic food is better for my health and my __________ health.</question>
+						<option>children's</option>
+						<option>children</option>
+						<option>childrens</option>
+						<answer>children's</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Organic vegetables _____ much better than other vegetables.</question>
+						<option>taste</option>
+						<option>are tasting</option>
+						<option>have taste</option>
+						<answer>taste</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="11">
+		<title>Unit 11: Will you accept the job?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0511A.jpg</image>
+				<audio>NDE0511A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Chris Scott. Welcome back, Chris.
+
+Chris: Thank you.
+
+Kathy: How are things?
+
+Chris: Very interesting, actually. You know, I dance with a ballet company in Chicago.
+
+Kathy: Yes.
+
+Chris: Well, this morning I had an interview with a dance company here in Washington, DC.
+
+Kathy: Really? How did it go?
+
+Chris: I think I did OK.
+
+Kathy: Do you think they'll offer you a job?
+
+Chris: Well, I think so.
+
+Kathy: If they offer you a job, will you accept?
+
+Chris: I'm not sure what I'll do. I like living in Chicago. I have a lot of friends there. And I love living with my sister Sara. If I accept the job, I'll have to move to Washington. I'll miss my sister and I'll miss all my friends in Chicago.
+
+Kathy: That sounds like a difficult decision.
+
+Chris: Yes. However, they may not offer me the job. And then I won't have to make a decision.</viewscript>
+				<comprehension>
+					<title>Lesson 11-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What did Chris do this morning?</question>
+						<option>She had an interview for a new job.</option>
+						<option>She accepted a new job.</option>
+						<option>She quit her old job.</option>
+						<answer>She had an interview for a new job.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where will Chris live if she accepts the new job?</question>
+						<option>Washington</option>
+						<option>New York</option>
+						<option>Chicago</option>
+						<answer>Washington</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does she feel about Chicago?</question>
+						<option>She likes living there.</option>
+						<option>She doesn't want to move there.</option>
+						<option>She doesn't have any friends in Chicago.</option>
+						<answer>She likes living there.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Do you think they'll _____ you a job?</question>
+						<option>offer</option>
+						<option>accept</option>
+						<option>interview</option>
+						<answer>offer</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>If I accept the job, I'll _______ move to Washington.</question>
+						<option>have to</option>
+						<option>must to</option>
+						<option>must</option>
+						<answer>have to</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>They _______ offer me the job.</question>
+						<option>may not</option>
+						<option>not may</option>
+						<option>may not to</option>
+						<answer>may not</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0511B.jpg</image>
+				<audio>NDE0511B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Chris Scott. She lives in Chicago, but she may move to Washington, DC. Chris, which dance company is larger, the one in Chicago or the one here in Washington?
+
+Chris: Well, the Chicago company is larger, but the Washington company is more famous. And the salaries are higher.
+
+Kathy: So if you move to Washington, you'll make more money.
+
+Chris: Yes, and more people will see me dance. I may even become famous.</viewscript>
+				<comprehension>
+					<title>Lesson 11-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0511B_Q1.mp3|Which dance company is more famous?</question>
+						<option>the one in Washington</option>
+						<option>the one in Chicago</option>
+						<option>They are both famous.</option>
+						<answer>the one in Washington</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0511B_Q2.mp3|Which dance company pays better?</question>
+						<option>the Washington company</option>
+						<option>the Chicago company</option>
+						<option>Neither pays very well.</option>
+						<answer>the Washington company</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0511B_Q3.mp3|Is Chris going to move to Washington?</question>
+						<option>She may.</option>
+						<option>She will.</option>
+						<option>She won't</option>
+						<answer>She may.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>The Washington</option>
+						<option>is</option>
+						<option>more</option>
+						<option>famous.</option>
+						<option>company</option>
+						<answer>The Washington company is more famous.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>Washington,</option>
+						<option>more money.</option>
+						<option>you'll</option>
+						<option>make</option>
+						<option>to</option>
+						<option>If you move</option>
+						<answer>If you move to Washington, you'll make more money.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>will see</option>
+						<option>More people</option>
+						<option>her dance</option>
+						<option>to Washington.</option>
+						<option>if she</option>
+						<option>moves</option>
+						<answer>More people will see her dance if she moves to Washington.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0511C.jpg</image>
+				<audio>NDE0511C.mp3</audio>
+				<viewscript>Kathy: We're back with our guest, Chris Scott. You have a dog, don't you?
+
+Chris: Yes, his name's Woody.
+
+Kathy: If you move to Washington, will you bring Woody with you?
+
+Chris: Of course! Wherever I go, Woody goes. I won't move to Washington without him! Now, when I go out of town, Sara stays with Woody. In Washington, I'll have to have a roommate. So that if I go out of town, somebody will stay with Woody. He gets very lonely. I once left him by himself all night and he ate my shoes.</viewscript>
+				<comprehension>
+					<title>Lesson 11-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who is Woody?</question>
+						<option>Chris's dog</option>
+						<option>Chris's boyfriend</option>
+						<option>Chris's brother</option>
+						<answer>Chris's dog</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who stays with Woody when Chris goes out of town?</question>
+						<option>her sister Sara</option>
+						<option>her parents</option>
+						<option>her roommate</option>
+						<answer>her sister Sara</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>If Chris goes to Washington, will she take Woody with her?</question>
+						<option>Yes, she will.</option>
+						<option>No, she won't.</option>
+						<option>She will, unless she has a roommate.</option>
+						<answer>Yes, she will.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I won't move to Washington _______ him.</question>
+						<option>without</option>
+						<option>unless</option>
+						<option>except</option>
+						<answer>without</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>When I go out of town, Sara _____ with Woody.</question>
+						<option>stays</option>
+						<option>stayed</option>
+						<option>staying</option>
+						<answer>stays</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I once left him __________ all night and he ate my shoes.</question>
+						<option>by himself</option>
+						<option>himself</option>
+						<option>with himself</option>
+						<answer>by himself</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="12">
+		<title>Unit 12: I may take the train.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0512A.jpg</image>
+				<audio>NDE0512A.mp3</audio>
+				<viewscript>Kathy: Our guest today is John Orwell. John is a well-known writer. Welcome to our show.
+
+John: I'm pleased to be here.
+
+Kathy: John, what are you working on now?
+
+John: Well, I'm working on a new story that will appear on television next year.
+
+Kathy: Wonderful! John, you live in England, don't you?
+
+John: That's right. I live in Brighton. It's about an hour south of London by train. I'm here in Washington on vacation.
+
+Kathy: Were you born in England?
+
+John: No, I wasn't. I was born in the United States. I'm an American citizen.
+
+Kathy: Do you think you'll ever move back to the US?
+
+John: I don't know. I like living in England. But I may move back to the US sometime. Or maybe I'll move to another country. There are many possibilities.</viewscript>
+				<comprehension>
+					<title>Lesson 12-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does John live?</question>
+						<option>Brighton</option>
+						<option>London</option>
+						<option>in the United States</option>
+						<answer>Brighton</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Why did he come to Washington?</question>
+						<option>He's on vacation.</option>
+						<option>He's on a business trip.</option>
+						<option>He's going to be on television.</option>
+						<answer>He's on vacation.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where was he born?</question>
+						<option>in the United States</option>
+						<option>in England</option>
+						<option>south of London</option>
+						<answer>in the United States</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I'm working on a new story that ___________ on TV next year.</question>
+						<option>will appear</option>
+						<option>appeared</option>
+						<option>appearing</option>
+						<answer>will appear</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>____ you born in England?</question>
+						<option>Were</option>
+						<option>Are</option>
+						<option>Did</option>
+						<answer>Were</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Do you think ______ ever move back to the US?</question>
+						<option>you'll</option>
+						<option>you're</option>
+						<option>you</option>
+						<answer>you'll</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0512B.jpg</image>
+				<audio>NDE0512B.mp3</audio>
+				<viewscript>Kathy: Our guest today is John Orwell. Where will you go after you leave Washington?
+
+John: I'm going to visit some friends in San Francisco.
+
+Kathy: Will you fly?
+
+John: I'm not sure what I'll do. In fact, if I have time, I may take the train.
+
+Kathy: That sounds interesting.
+
+John: Yes, if I take the train, I'll be able to see the countryside. And on the train you can meet some interesting people.</viewscript>
+				<comprehension>
+					<title>Lesson 12-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0512B_Q1.mp3|After he leaves Washington, where will John go?</question>
+						<option>He'll go to San Francisco.</option>
+						<option>He'll stay in Washington.</option>
+						<option>He'll return to England.</option>
+						<answer>He'll go to San Francisco.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0512B_Q2.mp3|How will John get to San Francisco?</question>
+						<option>He's not sure.</option>
+						<option>He'll fly.</option>
+						<option>He has decided to take the train.</option>
+						<answer>He's not sure.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0512B_Q3.mp3|How will he travel if he has enough time?</question>
+						<option>He'll take the train.</option>
+						<option>He'll fly.</option>
+						<option>He'll drive.</option>
+						<answer>He'll take the train.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>you go</option>
+						<option>you leave</option>
+						<option>Where</option>
+						<option>will</option>
+						<option>after</option>
+						<option>Washington?</option>
+						<answer>Where will you go after you leave Washington?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>I'll do.</option>
+						<option>I'm</option>
+						<option>sure</option>
+						<option>not</option>
+						<option>what</option>
+						<answer>I'm not sure what I'll do.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>take the train,</option>
+						<option>If I</option>
+						<option>I'll</option>
+						<option>be able</option>
+						<option>to see</option>
+						<option>the countryside.</option>
+						<answer>If I take the train, I'll be able to see the countryside.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0512C.jpg</image>
+				<audio>NDE0512C.mp3</audio>
+				<viewscript>Kathy: Our guest today is John Orwell. How long will you stay in San Francisco?
+
+John: I'll probably stay there for about a week.
+
+Kathy: And then what?
+
+John: Then I'll fly back to England. I'll try to get a non-stop flight.
+
+Kathy: That's a long flight, isn't it?
+
+John: Yes. It takes ten hours to fly from San Francisco to London. If I leave on a Saturday afternoon, I'll arrive in London on Sunday morning.
+
+Kathy: So I'm sure you'll be tired.
+
+John: I'm sure I will. There's an eight-hour time difference between San Francisco and London.</viewscript>
+				<comprehension>
+					<title>Lesson 12-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How long will John stay in San Francisco?</question>
+						<option>about a week</option>
+						<option>three or four days</option>
+						<option>two weeks</option>
+						<answer>about a week</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How long does it take to fly from San Francisco to London?</question>
+						<option>10 hours</option>
+						<option>15 hours</option>
+						<option>8 hours</option>
+						<answer>10 hours</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>If he leaves on a Saturday afternoon, when will he arrive?</question>
+						<option>Sunday morning</option>
+						<option>Sunday afternoon</option>
+						<option>Monday morning</option>
+						<answer>Sunday morning</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How long ____ you stay in San Francisco?</question>
+						<option>will</option>
+						<option>are</option>
+						<option>have</option>
+						<answer>will</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I'll ______ get a non-stop flight.</question>
+						<option>try to</option>
+						<option>try</option>
+						<option>give a try to</option>
+						<answer>try to</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>It ________ 10 hours to fly from San Francisco to London.</question>
+						<option>takes</option>
+						<option>is taking</option>
+						<option>take</option>
+						<answer>takes</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0512_bonus.jpg</image>
+				<audio>NDE0512_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. With me is Agent Johnson of the FBI. Agent Johnson, can you tell me what you're doing here?
+
+Johnson: I'm waiting for someone.
+
+Kent: A criminal? Is a criminal going to come out of that apartment?
+
+Johnson: Possibly.
+
+Kent: If he comes out, will you arrest him?
+
+Johnson: I may.
+
+Kent: If he has a gun, will you shoot him?
+
+Johnson: Perhaps.
+
+Kent: Look! That man walking towards us ... is he the one you're waiting for?
+
+Johnson: Yes, he is.
+
+Kent: He looks very dangerous.
+
+Johnson: Dad... hi!</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is the FBI [the Federal Bureau of Investigation]?</question>
+						<option>It protects the United States against crime.</option>
+						<option>It is a criminal organization.</option>
+						<option>It makes the laws of the United States.</option>
+						<answer>It protects the United States against crime.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who is Agent Johnson?</question>
+						<option>He works for the FBI.</option>
+						<option>He is a criminal.</option>
+						<option>He is a travel agent.</option>
+						<answer>He works for the FBI.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who is Agent Johnson waiting for?</question>
+						<option>his father</option>
+						<option>his son</option>
+						<option>a criminal</option>
+						<answer>his father</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Can you tell me what ______ doing here?</question>
+						<option>you're</option>
+						<option>your</option>
+						<option>you</option>
+						<answer>you're</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>__ a criminal going to come out of that apartment?</question>
+						<option>Is</option>
+						<option>Will</option>
+						<option>Are</option>
+						<answer>Is</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>If a criminal comes out, ____ you arrest him?</question>
+						<option>will</option>
+						<option>are</option>
+						<option>have</option>
+						<answer>will</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+</mainlist>
